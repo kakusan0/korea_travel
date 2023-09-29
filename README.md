@@ -1,5 +1,5 @@
 # korea_travel
-[]()
+[パスポート申請＿マイナンバー](https://img.myna.go.jp/manual/03-10/0225.html)
 
 ## 各種webサイト
 
