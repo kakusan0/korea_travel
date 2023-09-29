@@ -1,1 +1,16 @@
 # korea_travel
+[]()
+
+## 各種webサイト
+
+[仁川空港＿公式サイト](https://www.airport.kr/ap/ja/index.do)
+
+[仁川空港sim](https://www.klook.com/ja/activity/16469-kt-olleh-4g-sim-south-korea/?aid=4162&utm_medium=affiliate-alwayson&utm_source=non-network&utm_campaign=4162&utm_term=)
+
+[パスポート申請](https://www.mofa.go.jp/mofaj/toko/passport/page22_004036.html)
+
+## やることリスト
+- [ ] パスポート申請
+- [ ] simカード申請
+- [ ] 飛行機予約（仁川空港、成田空港）
+- [ ] 鉄道予約（仁川空港ーソウル）
