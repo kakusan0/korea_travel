@@ -16,3 +16,6 @@
 - [ ] 往復*飛行機予約（仁川空港、成田空港）[チェジュ航空](https://www.jejuair.net/ja/main/base/index.do)
 - [ ] 往復*鉄道予約（仁川空港ーソウル）[A’REX](https://www.airportrailroad.com/?langCd=3)
 - [ ] wowpass アプリのダウンロード（アプリ内で申請）
+
+## 行きたいところ
+https://maps.app.goo.gl/LgYNMwNJT6muREYG7
