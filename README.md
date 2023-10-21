@@ -17,8 +17,10 @@
 - [ ] 往復*鉄道予約（仁川空港ーソウル）[A’REX](https://www.airportrailroad.com/?langCd=3)
 - [ ] wowpass アプリのダウンロード（アプリ内で申請）
 
-https://www.twayair.com/app/main
-
 https://www.jinair.com/booking/index
 ## 行きたいところ
-https://maps.app.goo.gl/LgYNMwNJT6muREYG7
+https://www.konest.com/contents/gourmet_top.html
+
+https://bilsang.com/%E3%82%AB%E3%83%95%E3%82%A7%E3%83%BB%E3%82%B0%E3%83%AB%E3%83%A1/%E9%9F%93%E5%9B%BD%E7%84%BC%E8%82%89%E9%A3%9F%E3%81%B9%E6%94%BE%E9%A1%8C/
+
+
